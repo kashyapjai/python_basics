@@ -1,9 +1,8 @@
-# Byte-compiled / cache
+# Python cache
 __pycache__/
 *.py[cod]
-*.pyo
 
-# VS Code temp / project files
+# VS Code stuff
 .vscode/
 tempCodeRunnerFile.py
 
@@ -13,4 +12,8 @@ tempCodeRunnerFile.py
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Test files
+hello.py
+
 
