@@ -1,3 +1,6 @@
+# Day 2 — input(), strings vs numbers, type conversion
+
+
 # my first python program
 print("hello jai!")
 
