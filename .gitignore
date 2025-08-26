@@ -1,19 +1,9 @@
-# Python cache
-__pycache__/
+\__pycache__/
 *.py[cod]
-
-# VS Code stuff
 .vscode/
-tempCodeRunnerFile.py
-
-# Jupyter
 .ipynb_checkpoints/
-
-# OS junk
+tempCodeRunnerFile.py
 .DS_Store
 Thumbs.db
-
-# Test files
 hello.py
-
 
