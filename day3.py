@@ -1,3 +1,6 @@
+# Day 3 — Student Profile mini-project (variables, input, casting)
+
+
 #student profile generator
 name= input("what is your name:")
 age= int(input("what is your age:"))
